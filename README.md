@@ -2,7 +2,7 @@
 ## I'm a beginner *Front-end developer* from Kharkiv.
 
 ## Projects
-### [React Quiz App](https://quizapp-57505.web.app)
+### [React Quiz App](https://react-quiz-murex.vercel.app)
 ### [React Todo App](https://github.com/iampaulfrolov/react-todo-app)
 ### [Rock Scissor Paper](https://rock-scissors-paper.vercel.app)
 ### [Angular Blog](https://angular-blog-a0f3e.web.app)
