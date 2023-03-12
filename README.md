@@ -1,5 +1,5 @@
-# 👋 Hi, my name is **Pavel Frolov**!
-## I'm a beginner *Front-end developer* from Kharkiv.
+# 👋 Hi, my name is **Pavlo Frolov**!
+## I'm a *Front-end developer* from Kharkiv.
 
 ## Projects
 ### [React Quiz App](https://react-quiz-murex.vercel.app)
