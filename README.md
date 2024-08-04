@@ -13,6 +13,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![JavaScript](https://img.shields.io/badge/-ReactJs-090909?style=for-the-badge&logo=React) -->
 
-### Mail me: pavlo.frolov@nure.ua
+### Mail me: paulfrolov@icloud.com
 ### Telegram: [@iampaulfrolov](https://t.me/iampaulfrolov)
 
